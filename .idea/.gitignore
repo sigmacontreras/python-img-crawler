@@ -7,3 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/pythonProject.iml
